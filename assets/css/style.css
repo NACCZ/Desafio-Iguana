@@ -1,0 +1,152 @@
+
+body{
+    background: #000000;
+    color: #ffff;
+
+    font-family: "Raleway";
+  }
+  
+  body, *{
+    margin: 0;
+    border: 0;
+    padding: 0;
+  }
+  
+  .inicio{
+    font-weight: 500;
+    padding: 1%;
+  }
+  
+  .desc-section{
+    padding: 60px 0;
+  }
+
+  h1{
+    color: #ffff;
+    margin-top: 7px;
+    margin-left: 530px;
+    width: 220px;
+    height: 60px;
+    text-align: left;
+    font: 500;
+    }
+    
+  
+    .big-header{
+    top: 73px;
+    width: 1280;
+    height: 720px;
+    padding-left: 150px;
+    background: transparent;
+    opacity: 1;
+    }
+
+    .iguana1{
+        width: 400px;
+        height: 237px;
+        padding-top: 2ch;
+        }
+    
+    .texto-imagen{
+      width: 1280px;
+      height: 348px;
+    }
+    
+    .texto{
+    display: inline-block;
+    color: #ffff;
+    top: 876px;
+    left: 150px;
+    width: 475px;
+    height: 197px;
+    padding-left: 150px;
+    }
+  
+    p{
+      margin-bottom: 1em;
+    }
+    
+  
+
+  .icons-section{
+    padding: 66px;
+    background-color: #1e1a13 ;
+    text-align: center;
+    color:#ffff;
+    width: 1280px;
+    height: 348px;
+    display: inline-block;
+  }
+
+  .icons{
+    margin-top: 40px;
+    padding-top: 60px;
+  }
+  
+  
+  .i{
+    width: 15em;
+    height: 12em;
+    padding: 0.5%;
+  }
+
+  
+
+
+  .desc i{
+    margin: 0 0.25 0.5 0.25;
+  }
+  
+  .ojo, .mano, .brunch, #fotos, .i{
+    display: inline-block;
+  }
+
+  
+  .tamaño{
+  width: 306px;
+  height: 202px;
+  }
+
+
+  .img-iguana{
+  margin-bottom: 1em;
+  display: inline-block;
+  }
+
+  .iguana2{
+    margin-bottom: 1em;
+    margin-left: 2ch;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    padding-top: 2ch;
+  }
+
+  .iguana3{
+    margin-bottom: 1em;
+    margin-left: 2ch;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    padding-top: 2ch;
+  }
+
+  .iguana4{
+    margin-bottom: 1em;
+    margin-left: 2ch;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    padding-top: 2ch;
+  }
+
+  footer{
+  width: 960px;
+  height: 92px;
+  font-weight: 300;
+  background-color: #1e1a13;
+  padding: 39px 199px ;
+  color: #ffff;
+  display: inline-block;
+  text-align: center;
+  }
